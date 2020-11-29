@@ -1,0 +1,9 @@
+{
+	"name" : "smartCARs LiveATC Datalink",
+	"description" : "To connect to nearest LiveATC from iCrew smartCARs Live Transcripts.",
+	"created" : "22/12/2020",
+	"completed" : "true",
+	"modules" : ["requests","csv","webbrowser","time","os","bs4"],
+	"hosting" : {"hosted" : "false"},
+	"code" : "SM-22122020-112528"
+}
